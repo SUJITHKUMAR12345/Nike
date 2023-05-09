@@ -1,0 +1,3 @@
+Your Order Details :
+     Model  : Kyrie 06
+     Size   : 09
